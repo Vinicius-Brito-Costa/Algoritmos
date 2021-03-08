@@ -2,13 +2,13 @@
 Aqui serão armazenados alguns exercicios que venho fazendo ao longo do tempo.
 Atualmente estou utilizando estes artigos como ponto de partida: [Most important type of Algorithms](https://www.geeksforgeeks.org/most-important-type-of-algorithms/), [Divide and Conquer Algorithms](https://medium.com/cracking-the-data-science-interview/divide-and-conquer-algorithms-b135681d08fc)
 
-### [Algoritimos Recursivos](/Recursivos/)
+### Algoritimos Recursivos
 -  [ ] *Função Fatorial*
 -  [ ] *Sequência Fibonacci*
 -  [ ] *Torre de Hanoi*
 -  [ ] *Busca em profundidade*
-### [Dividir e Conquistar](/DivisaoConquista/buscaBinaria.js)
-- [x] **Busca Binária**
+### Dividir e Conquistar
+- [x] **[Busca Binária](/DivisaoConquista/buscaBinaria.js)**
 - [ ] *Merge Sort(ordenação por mistura)*
 - [ ] *Quick Sort*
 - [ ] *Merge Sort(ordenação por mistura)*
