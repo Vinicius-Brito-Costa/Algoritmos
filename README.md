@@ -5,13 +5,12 @@ Atualmente estou utilizando estes artigos como ponto de partida: [Most important
 ### Algoritimos Recursivos
 -  [ ] *Função Fatorial*
 -  [ ] *Sequência Fibonacci*
--  [ ] *Torre de Hanoi*
+-  [ ] *Torre de Hanói*
 -  [ ] *Busca em profundidade*
 ### Dividir e Conquistar
 - [x] **[Busca Binária](/DivisaoConquista/buscaBinaria.js)**
 - [ ] *Merge Sort(ordenação por mistura)*
 - [ ] *Quick Sort*
-- [ ] *Merge Sort(ordenação por mistura)*
 - [ ] *Par de pontos mais próximo(Closest Pair of Points)*
 
 
