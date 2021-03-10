@@ -13,7 +13,15 @@ Atualmente estou utilizando estes artigos como ponto de partida: [Most important
 - [ ] *Quick Sort*
 - [ ] *Par de pontos mais próximo(Closest Pair of Points)*
 
-
+### Estrutura de Dados
+-  [ ] *Linked Lists*
+-  [ ] *Stacks*
+-  [ ] *Queues*
+-  [ ] *Trees*
+-  [ ] *Heaps*
+-  [ ] *Hash sets*
+-  [ ] *Hash maps / Hash Tables*
+-  [ ] *Graphs*
 
 ### Autor
 ---
