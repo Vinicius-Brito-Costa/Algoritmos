@@ -33,4 +33,4 @@ Atualmente estou utilizando estes artigos como ponto de partida: [Most important
 
 👋🏽 Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Vinicius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinícius-brito-costa-150b9b158)](https://www.linkedin.com/in/vinicius-brito-costa-150b9b158/) [![Gmail Badge](https://img.shields.io/badge/-viniciusbc46@hotmail.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:viniciusbc46@hotmail.com)](mailto:viniciusbc46@hotmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Vinicius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinícius-brito-costa)](https://www.linkedin.com/in/vinicius-brito-costa-150b9b158/) [![Gmail Badge](https://img.shields.io/badge/-viniciusbc46@hotmail.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:viniciusbc46@hotmail.com)](mailto:viniciusbc46@hotmail.com)
