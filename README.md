@@ -8,7 +8,7 @@ Atualmente estou utilizando estes artigos como ponto de partida: [Most important
 -  [ ] *Torre de Hanói*
 -  [ ] *Busca em profundidade*
 ### Dividir e Conquistar
-- [x] **[Busca Binária](/DivisaoConquista/buscaBinaria.js)**
+- [x] **[Busca Binária](/DivisaoConquista/BuscaBinaria/)**
 - [ ] *Merge Sort(ordenação por mistura)*
 - [ ] *Quick Sort*
 - [ ] *Par de pontos mais próximo(Closest Pair of Points)*
