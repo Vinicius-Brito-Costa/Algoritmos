@@ -1,6 +1,9 @@
 # <p style='text-align:center'>Estudos de Algoritmos</p>
 Aqui serão armazenados alguns exercicios que venho fazendo ao longo do tempo.
-Atualmente estou utilizando estes artigos como ponto de partida: [Most important type of Algorithms](https://www.geeksforgeeks.org/most-important-type-of-algorithms/), [Divide and Conquer Algorithms](https://medium.com/cracking-the-data-science-interview/divide-and-conquer-algorithms-b135681d08fc)
+Atualmente estou utilizando estes artigos e videos como ponto de partida:
+- [Most important type of Algorithms](https://www.geeksforgeeks.org/most-important-type-of-algorithms/)
+- [Divide and Conquer Algorithms](https://medium.com/cracking-the-data-science-interview/divide-and-conquer-algorithms-b135681d08fc)
+- [Merge sort in 3 minutes](https://www.youtube.com/watch?v=4VqmGXwpLqc)
 
 ### Algoritimos Recursivos
 -  [ ] *Função Fatorial*
@@ -9,7 +12,7 @@ Atualmente estou utilizando estes artigos como ponto de partida: [Most important
 -  [ ] *Busca em profundidade*
 ### Dividir e Conquistar
 - [x] **[Busca Binária](/DivisaoConquista/BuscaBinaria/)**
-- [ ] *Merge Sort(ordenação por mistura)*
+- [ ] **[Merge Sort(ordenação por mistura)](/DivisaoConquista/MergeSort/)**
 - [ ] *Quick Sort*
 - [ ] *Par de pontos mais próximo(Closest Pair of Points)*
 
