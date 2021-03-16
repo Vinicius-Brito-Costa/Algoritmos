@@ -1,4 +1,4 @@
-let listaDeNumeros = [4, 5, 7, 10, 1, 8, 11, 3, 9, 2, 6.1, 6.4];
+let listaDeNumeros = [4, 5, 7, 10, 1, 8, 11, 3, 9, 2, 6, 6.1, 6.4];
 
 function MergeSort(lista){
     if(lista.length <= 1){

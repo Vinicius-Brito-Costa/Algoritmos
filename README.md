@@ -12,7 +12,7 @@ Atualmente estou utilizando estes artigos e videos como ponto de partida:
 -  [ ] *Busca em profundidade*
 ### Dividir e Conquistar
 - [x] **[Busca Binária](/DivisaoConquista/BuscaBinaria/)**
-- [ ] **[Merge Sort(ordenação por mistura)](/DivisaoConquista/MergeSort/)**
+- [x] **[Merge Sort(ordenação por mistura)](/DivisaoConquista/MergeSort/)**
 - [ ] *Quick Sort*
 - [ ] *Par de pontos mais próximo(Closest Pair of Points)*
 
