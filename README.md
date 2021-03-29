@@ -4,6 +4,9 @@ Atualmente estou utilizando estes artigos e videos como ponto de partida:
 - [Most important type of Algorithms](https://www.geeksforgeeks.org/most-important-type-of-algorithms/)
 - [Divide and Conquer Algorithms](https://medium.com/cracking-the-data-science-interview/divide-and-conquer-algorithms-b135681d08fc)
 - [Merge sort in 3 minutes](https://www.youtube.com/watch?v=4VqmGXwpLqc)
+- [Quicksort in JavaScript](https://stackabuse.com/quicksort-in-javascript/)
+- [Quick-sort with Hungarian](https://www.youtube.com/watch?v=ywWBy6J5gz8)
+- [QUICKSORT | Algoritmos #8](https://www.youtube.com/watch?v=wx5juM9bbFo)
 
 ### Algoritimos Recursivos
 -  [ ] *Função Fatorial*
@@ -13,7 +16,7 @@ Atualmente estou utilizando estes artigos e videos como ponto de partida:
 ### Dividir e Conquistar
 - [x] **[Busca Binária](/DivisaoConquista/BuscaBinaria/)**
 - [x] **[Merge Sort(ordenação por mistura)](/DivisaoConquista/MergeSort/)**
-- [ ] *Quick Sort*
+- [x] **[Quick Sort](/DivisaoConquista/QuickSort/)**
 - [ ] *Par de pontos mais próximo(Closest Pair of Points)*
 
 ### Estrutura de Dados
